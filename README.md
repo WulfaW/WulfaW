@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WulfaW
-- 👀 I’m interested in этический взлом
-- 🌱 I’m currently learning русский
+- 👀 I’m interested in Ты
+- 🌱 I’m currently learning Ты
 
 
 <!---
