@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @WulfaW
-- 👀 I’m interested in Ты
-- 🌱 I’m currently learning Ты
+I'm living the dream
+<details>
+  <summary>Dream</summary>
 
-
-<!---
-WulfaW/WulfaW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ```
+  **D** ead inside
+  **R** econsidering my life
+  **E** ating nothing
+  **A** complete mess
+  **M** entally unstable
+  ```
