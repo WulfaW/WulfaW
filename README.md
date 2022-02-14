@@ -12,4 +12,4 @@ I'm living the dream
 
 You can buy me cement btw
 
-<a href="https://www.buymeacoffee.com/xijisuno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/xijisuno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cement&emoji=&slug=xijisuno&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
