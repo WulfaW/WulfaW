@@ -1,7 +1,7 @@
 <br>
-<a href="https://discord.com/users/502492480651001856"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198867839214/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://raw.githubusercontent.com/WulfaW/WulfaW/main/bitcoin.txt"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
+<a href="https://discord.com/users/502492480651001856"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </br>
 
 
