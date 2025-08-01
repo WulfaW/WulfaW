@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Steam-WulfaW-171a21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   <a href="https://discord.com/users/502492480651001856" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-WulfaW%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-WulfaW%232670-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
