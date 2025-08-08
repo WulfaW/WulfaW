@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🔥 Currently learning JavaScript & React
+- 🔥 Currently learning React
 - ☕ Night coder
 
 ---
