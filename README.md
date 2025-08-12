@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Wulfa 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Frontend+Developer+in+Progress...;JavaScript+Lover+%F0%9F%94%A5;Code%2C+Create%2C+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Frontend+Developer+in+Progress...;Code%2C+Create%2C+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
