@@ -38,7 +38,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/WulfaW/WulfaW/96a6fa808ed287def101d92c1270530bffdfcdb7/github-snake.svg" />
 </p>
 
 ---
