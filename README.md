@@ -36,7 +36,7 @@
 ### 💸 Support Me with Crypto
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/explorer/addresses/btc/bc1qvdd3wcnt4gntc7ps9fz9rf2yznqn3vgf8fsf6g)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0x491f18967f27E0F1089A50B624d37DBc312d32E9)
-[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/account/ED3mwuKJxx7hESPUXRMC1dCBiEMfQ1EXtXvYVHLgLDV2)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/account/DzpSrwZPzDQuX3eDmhtbxvaFJSrnpDKGDXqSCRsV2ojh)
 
 ---
 
