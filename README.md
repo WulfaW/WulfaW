@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Frontend Developer passionate about creating responsive and interactive web experiences  
+- 🎯 Currently learning Java
 - ☕ Night Coder & lifelong learner 
 
 ---
