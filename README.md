@@ -30,9 +30,8 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WulfaW&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WulfaW&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wulfa&layout=compact&theme=dark" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WulfaW&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wulfa&layout=compact&theme=react" alt="WakaTime Stats" />
 
 
 
