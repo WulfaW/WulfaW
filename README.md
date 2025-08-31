@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Currently learning Java
+- 🎯 Currently focusing Machine Learning
 - ☕ Night Coder & lifelong learner 
 
 ---
