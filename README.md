@@ -35,7 +35,9 @@
 
 ### 🔥 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wulfa&layout=compact&theme=react" alt="WakaTime Stats" />
+  <p align="center">
+  <img src="wakatime/stats.svg?v=1" height="300" alt="WakaTime Stats"/>
+</p>
 
 
 
