@@ -36,7 +36,7 @@
 ### 🔥 Stats
 <p align="center">
   <p align="center">
-  <img src="wakatime/stats.svg?v=20260713" height="300" alt="WakaTime Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Wulfa&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
 
