@@ -21,8 +21,8 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          # DİKKAT: Aşağıdaki username=Wulfa kısmını kontrol et!
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Wulfa&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
+          # Linkin sonuna &theme=cyber_aqua eklendi!
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Wulfa&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=cyber_aqua" \
           -o wakatime/stats.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
