@@ -36,7 +36,7 @@
 ### 🔥 Stats
 <p align="center">
   <p align="center">
-  <img src="wakatime/stats.svg?v=1" height="300" alt="WakaTime Stats"/>
+  <img src="wakatime/stats.svg?v=20260713" height="300" alt="WakaTime Stats"/>
 </p>
 
 
